@@ -1,3 +1,4 @@
+![banner](banner-placement.svg)
 # Student Placement Prediction using Logistic Regression
 
 A machine learning project that predicts whether a student will be placed based on their **CGPA** and **IQ score**.
